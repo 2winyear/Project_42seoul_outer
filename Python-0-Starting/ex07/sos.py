@@ -5,7 +5,8 @@ def main():
     """
     [main]
 
-    This program that takes a string as an argument and encodes it into Morse Code.
+    This program that takes a string as an argument and encodes it into
+    Morse Code.
     """
     assert_string = "AssertionError: the arguments are bad"
     try:
