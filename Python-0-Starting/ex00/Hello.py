@@ -7,14 +7,14 @@ ft_dict = {"Hello" : "titi!"}
 ft_list[1] = "World!"
 
 # tuple : 추가 삭제 불가능
-ft_tuple = ("Hello", "Korea!")
+ft_tuple = ("Hello", "France!")
 
 # set : 추가 삭제 모두 가능, 순서가 없어서 출력은 랜덤
 ft_set.remove("tutu!")
-ft_set.add("Seoul!")
+ft_set.add("Paris!")
 
 # dict : 추가 제거 모두 가능, key값으로 value 값 수정
-ft_dict["Hello"] = "42Seoul!"
+ft_dict["Hello"] = "42Paris!"
 
 print(ft_list)
 print(ft_tuple)
